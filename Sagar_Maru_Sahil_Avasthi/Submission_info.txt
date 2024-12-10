@@ -1,0 +1,16 @@
+Hello,
+
+The submission.csv file is generated based on Model 4 - PCA with Random Forest Using Cross-Validation. The best hyperparameters for this model are:
+
+criterion: 'entropy'
+max_depth: 20
+n_estimators: 50
+
+The model achieved an accuracy score of 0.91200 (as per kaggle submission).
+
+You can also find the submission at the below location:
+https://github.com/sagar-maru/Telecom-Churn-Case-Study
+https://www.kaggle.com/code/marusagar/telecom-churn-case-study-hackathon
+
+Thanks!
+Sagar Maru
